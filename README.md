@@ -1,11 +1,12 @@
 # minetest-rc
 
 Credits:
-    * [Mesecons](http://mesecons.net/)-mod by Jeija and contributors   
+
+   1. [Mesecons](http://mesecons.net/)-mod by Jeija and contributors   
             -> textures+most code of the rc_controller  
-    * [Digiline Keyboard (digiboard)](https://github.com/jogag/digiline-stuff) by jogag   
+   2. [Digiline Keyboard (digiboard)](https://github.com/jogag/digiline-stuff) by jogag   
             -> textures+parts of the code used for the rc_keyboard  
-    * [Digiline Mod Display (digiline_lcd)](https://github.com/minetest-mods/digilines) by Jeija   
+   3. [Digiline Mod Display (digiline_lcd)](https://github.com/minetest-mods/digilines) by Jeija   
             -> code used for rc_rcd  
     
     
