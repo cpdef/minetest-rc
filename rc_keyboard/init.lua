@@ -45,7 +45,7 @@ minetest.register_node("rc_keyboard:rc_keyboard", {
       meta:set_int("z", tonumber(fields.z))
       meta:set_string("formspec", "field[text;Enter text;]")
     elseif fields.text then
-      rc.send(RC_RADIUS, pos, {x=x,y=y,z=z}, fields.text, sender)
+      rc.send(RC_RADIUS, pos, {x=x,y=y,z=z}, fields.text, sender:get_player_name())
     end
   end,
 })
